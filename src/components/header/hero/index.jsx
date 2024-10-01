@@ -12,7 +12,7 @@ export function Hero() {
         <p>Cuộc Sống Mới</p>
       </div>
       <div className="hero-right">
-        <img src={imgHero} alt="image-hero" width={"497px"} height={"497px"} />
+        <img src={imgHero} alt="image-hero" width={497} height={497} />
       </div>
 
       <div className="hero-icons flex justify-center space-x-4 mt-4">
