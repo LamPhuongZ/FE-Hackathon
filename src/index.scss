@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} 
+
+header {
+  background: #f1f2fd;
+  @apply h-[771px] pt-9;
+}
+
+.header-top {
+  @apply flex justify-center items-center gap-36 mb-12;
+}
+
+.logo-title {
+  @apply flex justify-center items-center gap-2;
+}
+
+.title {
+  @apply text-black text-lg font-bold capitalize;
+}
+
+.btn-sign-up {
+  @apply px-[50px] py-4 bg-blue-600 rounded-lg text-white;
+}
+
+.nav-menu {
+  @apply flex justify-center items-center gap-10;
+}
+
+.nav-menu li a {
+  @apply text-black text-base font-medium capitalize;
+  font-family: Epilogue;
+}
+
+.hero {
+  @apply flex justify-center items-center gap-16;
+}
+
+.hero-left {
+  @apply w-[697px] h-[295px] text-7xl font-semibold tracking-tight capitalize ml-16 leading-[98.5px];
+  color: rgba(63, 140, 255, 0.63);
+}
+
+.hero-right {
+  @apply w-[497px] h-[497px] mr-16;
+}
