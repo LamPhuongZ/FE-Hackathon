@@ -11,8 +11,14 @@ footer {
   h3 {
     color: #3F8CFF;
   }
-  
-  hr{
+
+  hr {
     border-top: 1px solid #ccc !important;
+  }
+
+  .link {
+    &:hover {
+      color: #3F8CFF;
+    }
   }
 }
