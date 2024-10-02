@@ -1,3 +1,4 @@
+import React from "react";
 import Vector from "../../assets/images/Vector.png";
 import how1 from "../../assets/images/how1.png";
 import how2 from "../../assets/images/how2.png";
@@ -6,7 +7,6 @@ import how4 from "../../assets/images/how4.png";
 import how5 from "../../assets/images/how5.png";
 import how6 from "../../assets/images/how6.png";
 import Google from "../../assets/images/Google.png";
-import React from "react";
 
 const HowItWorks = () => {
   return (
