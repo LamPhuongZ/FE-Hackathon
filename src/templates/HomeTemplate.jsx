@@ -1,6 +1,7 @@
-import { Outlet } from "react-router-dom";
+// import { Outlet } from "react-router-dom";
 import Footer from "../components/footer";
 import Header from "../components/header";
+import HowItWorks from "../components/how-it-works/howItWorks";
 
 export default function HomeTemplate() {
   return (
@@ -10,7 +11,7 @@ export default function HomeTemplate() {
         className="content-layout pt-20 bg-white"
         style={{ minHeight: "80vh" }}
       >
-        <Outlet></Outlet>
+        <HowItWorks></HowItWorks>
       </div>
       <Footer />
     </>
