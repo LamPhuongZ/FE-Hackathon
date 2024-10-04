@@ -1,9 +1,10 @@
-import HomeTemplate from "./templates/HomeTemplate";
+// import HomeTemplate from "./templates/HomeTemplate";
+import HomePage from "./pages/HomePage"
 
 function App() {
   return (
     <>
-      <HomeTemplate />
+      <HomePage />
     </>
   );
 }
