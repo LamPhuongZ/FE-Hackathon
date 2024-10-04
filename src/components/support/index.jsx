@@ -15,7 +15,8 @@ const WhyChooseUs = () => {
 
   return (
     <>
-      <div className=" flex flex-col justify-center items-center  bg-[#F1F2FD] h-[100vh]">
+      <div className=" flex flex-col justify-center items-center  bg-[#F1F2FD] h-[75vh] mt-[50px
+      ]">
         <div className="mb-2 font-bold text-4xl mt-10 ">
           <h1>Tại sao chọn chúng tôi ?</h1>
         </div>
@@ -33,12 +34,12 @@ const WhyChooseUs = () => {
             />
           </svg>
         </div>
-        <div className="flex gap-[50px] items-center mt-10">
+        <div className="flex flex-col sm:flex-row gap-[50px] items-center mt-10">
           {content.map((item) => {
             return (
               <div
                 key={item.id}
-                className="bg-white  shadow w-[400px] h-[300px] rounded-[20px] flex flex-col items-center"
+                className="bg-white  shadow w-full md:w-[50%] h-[30vh] rounded-[20px] flex flex-col items-center"
               >
                 <div className="Icons mt-10">
                   <img src={item.src} alt="#" />
