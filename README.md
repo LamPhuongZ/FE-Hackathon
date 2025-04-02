@@ -1,8 +1,53 @@
 # Software Requirements Specification (SRS)
 
-# Dự án: Nền tảng Tìm Việc Part-Time <img src="https://imgur.com/a/5q6QMTs">
+# Dự án: Nền tảng Tìm Việc Part-Time <img src="https://imgur.com/a/OTd4Nea">
 Phiên bản: 1.0
 Ngày: [Ngày hiện tại]
+
+# Mục Lục
+
+## 1. Giới thiệu
+### 1.1 Mục đích
+### 1.2 Phạm vi dự án
+
+## 2. Mô tả hệ thống
+### 2.1 Môi trường hoạt động
+### 2.2 Các bên liên quan
+
+## 3. Yêu cầu chức năng
+### 3.1 Chức năng chính của hệ thống
+#### 3.1.1 Đăng nhập, Đăng xuất, Đăng ký và Quên Mật Khẩu
+#### 3.1.2 Cập Nhật Hồ Sơ Cá Nhân
+
+### 3.2 Chức năng theo vai trò
+#### 3.2.1 Đăng Tin Tuyển Dụng (Recruiter)
+#### 3.2.2 Quản Lý Job Đã Đăng
+#### 3.2.3 Đánh Giá và Nhận Xét (Recruiter)
+#### 3.2.4 Ứng Tuyển Job (Job Seeker)
+#### 3.2.5 Đánh Giá và Nhận Xét (Job Seeker)
+
+### 3.3 Chức năng chung
+#### 3.3.1 Báo Cáo
+#### 3.3.2 Quản Lý Ví và Thanh Toán
+
+## 4. Chức năng quản lý của Admin
+### 4.1 Quản Lý Người Dùng
+### 4.2 Quản Lý Tin Tuyển Dụng
+### 4.3 Quản Lý Đánh Giá và Báo Cáo
+### 4.4 Quản Lý Ví và Thanh Toán
+### 4.5 Quản Lý Thông Báo và Tin Nhắn Hệ Thống
+### 4.6 Quản Lý Nội Dung và Chính Sách
+### 4.7 Quản Lý Báo Cáo và Phân Tích Hệ Thống
+### 4.8 Quản Lý Tiêu Chí Job (Skill và Job Type)
+
+## 5. Yêu cầu phi chức năng
+### 5.1 Bảo mật
+### 5.2 Hiệu suất
+### 5.3 Khả năng sử dụng
+
+## 6. Các trường hợp sử dụng chính
+
+## 7. Phân Công Nguồn Lực Chính
 
 ### 1. Giới thiệu
 #### 1.1 Mục đích
