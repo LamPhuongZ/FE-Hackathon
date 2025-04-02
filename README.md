@@ -7,47 +7,50 @@ Ngày: [Ngày hiện tại]
 # Mục Lục
 
 ## 1. Giới thiệu
-### 1.1 Mục đích
-### 1.2 Phạm vi dự án
+- [1.1 Mục đích](#11-muc-dich)
+- [1.2 Phạm vi dự án](#12-pham-vi-du-an)
 
 ## 2. Mô tả hệ thống
-### 2.1 Môi trường hoạt động
-### 2.2 Các bên liên quan
+- [2.1 Môi trường hoạt động](#21-moi-truong-hoat-dong)
+- [2.2 Các bên liên quan](#22-cac-ben-lien-quan)
 
 ## 3. Yêu cầu chức năng
 ### 3.1 Chức năng chính của hệ thống
-#### 3.1.1 Đăng nhập, Đăng xuất, Đăng ký và Quên Mật Khẩu
-#### 3.1.2 Cập Nhật Hồ Sơ Cá Nhân
+- [3.1.1 Đăng nhập, Đăng xuất, Đăng ký và Quên Mật Khẩu](#311-dang-nhap-dang-xuat-dang-ky-va-quen-mat-khau)
+- [3.1.2 Cập Nhật Hồ Sơ Cá Nhân](#312-cap-nhat-ho-so-ca-nhan)
 
 ### 3.2 Chức năng theo vai trò
-#### 3.2.1 Đăng Tin Tuyển Dụng (Recruiter)
-#### 3.2.2 Quản Lý Job Đã Đăng
-#### 3.2.3 Đánh Giá và Nhận Xét (Recruiter)
-#### 3.2.4 Ứng Tuyển Job (Job Seeker)
-#### 3.2.5 Đánh Giá và Nhận Xét (Job Seeker)
+- [3.2.1 Đăng Tin Tuyển Dụng (Recruiter)](#321-dang-tin-tuyen-dung-recruiter)
+- [3.2.2 Quản Lý Job Đã Đăng](#322-quan-ly-job-da-dang)
+- [3.2.3 Đánh Giá và Nhận Xét (Recruiter)](#323-danh-gia-va-nhan-xet-recruiter)
+- [3.2.4 Ứng Tuyển Job (Job Seeker)](#324-ung-tuyen-job-job-seeker)
+- [3.2.5 Đánh Giá và Nhận Xét (Job Seeker)](#325-danh-gia-va-nhan-xet-job-seeker)
 
 ### 3.3 Chức năng chung
-#### 3.3.1 Báo Cáo
-#### 3.3.2 Quản Lý Ví và Thanh Toán
+- [3.3.1 Báo Cáo](#331-bao-cao)
+- [3.3.2 Quản Lý Ví và Thanh Toán](#332-quan-ly-vi-va-thanh-toan)
 
 ## 4. Chức năng quản lý của Admin
-### 4.1 Quản Lý Người Dùng
-### 4.2 Quản Lý Tin Tuyển Dụng
-### 4.3 Quản Lý Đánh Giá và Báo Cáo
-### 4.4 Quản Lý Ví và Thanh Toán
-### 4.5 Quản Lý Thông Báo và Tin Nhắn Hệ Thống
-### 4.6 Quản Lý Nội Dung và Chính Sách
-### 4.7 Quản Lý Báo Cáo và Phân Tích Hệ Thống
-### 4.8 Quản Lý Tiêu Chí Job (Skill và Job Type)
+- [4.1 Quản Lý Người Dùng](#41-quan-ly-nguoi-dung)
+- [4.2 Quản Lý Tin Tuyển Dụng](#42-quan-ly-tin-tuyen-dung)
+- [4.3 Quản Lý Đánh Giá và Báo Cáo](#43-quan-ly-danh-gia-va-bao-cao)
+- [4.4 Quản Lý Ví và Thanh Toán](#44-quan-ly-vi-va-thanh-toan)
+- [4.5 Quản Lý Thông Báo và Tin Nhắn Hệ Thống](#45-quan-ly-thong-bao-va-tin-nhan-he-thong)
+- [4.6 Quản Lý Nội Dung và Chính Sách](#46-quan-ly-noi-dung-va-chinh-sach)
+- [4.7 Quản Lý Báo Cáo và Phân Tích Hệ Thống](#47-quan-ly-bao-cao-va-phan-tich-he-thong)
+- [4.8 Quản Lý Tiêu Chí Job (Skill và Job Type)](#48-quan-ly-tieu-chi-job-skill-va-job-type)
 
 ## 5. Yêu cầu phi chức năng
-### 5.1 Bảo mật
-### 5.2 Hiệu suất
-### 5.3 Khả năng sử dụng
+- [5.1 Bảo mật](#51-bao-mat)
+- [5.2 Hiệu suất](#52-hieu-suat)
+- [5.3 Khả năng sử dụng](#53-kha-nang-su-dung)
 
 ## 6. Các trường hợp sử dụng chính
+- [6. Các trường hợp sử dụng chính](#6-cac-truong-hop-su-dung-chinh)
 
 ## 7. Phân Công Nguồn Lực Chính
+- [7. Phân Công Nguồn Lực Chính](#7-phan-cong-nguon-luc-chinh)
+
 
 ### 1. Giới thiệu
 #### 1.1 Mục đích
