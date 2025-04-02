@@ -1,6 +1,6 @@
 # Software Requirements Specification (SRS)
 
-# Dự án: Nền tảng Tìm Việc Part-Time [Imgur](https://imgur.com/h6LLcKb)
+# Dự án: Nền tảng Tìm Việc Part-Time ![Logo](https://imgur.com/h6LLcKb.png)
 Phiên bản: 1.0
 Ngày: [Ngày hiện tại]
 
